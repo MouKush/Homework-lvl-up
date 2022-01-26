@@ -1,0 +1,181 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+   display: flex;
+   flex-wrap: wrap;
+   padding: 0 100px 7px 650px;
+}
+
+.row-two {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 100px 7px 555px;
+}
+
+.row-three {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 100px 7px 555px;
+}
+
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 100px 7px 650px;
+}
+.one {
+    border: 1px solid red;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.one-box {
+    padding: 7px 7px 0 4px;
+}
+
+.two {
+    border: 1px solid red;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.two-box {
+    padding: 7px 7px 0 0;
+}
+
+.three {
+    border: 1px solid red;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.three-box {
+    padding: 7px 0 0 0;
+}
+
+.four {
+    border: 1px solid red;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.four-box {
+    padding: 0 7px 0 0;
+}
+
+.five {
+    border: 1px solid red;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.five-box {
+    padding: 0 7px 0 0;
+}
+
+.six {
+    border: 1px solid red;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.six-box {
+    padding: 0 7px 0 0;
+}
+
+.seven {
+    border: 1px solid red;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.seven-box {
+    padding: 0 7px 0 0;
+}
+
+
+.eight {
+    border: 1px solid red;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.eight-box {
+    padding: 0 7px 0 0;
+}
+
+
+.nine {
+    border: 1px solid red;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.nine-box {
+    padding: 0 7px 0 0;
+}
+
+.ten {
+    border: 1px solid red;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.ten-box {
+    padding: 0 7px 0 0;
+}
+
+.eleven {
+    border: 1px solid red;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.eleven-box {
+    padding: 0 7px 0 0;
+}
+
+.twelve {
+    border: 1px solid red;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.twelve-box {
+    padding: 0 7px 0 0;
+}
+
+.thirteen {
+    border: 1px solid red;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.thirteen-box {
+    padding: 0 7px 0 0;
+}
+
+
+.fourteen {
+    border: 1px solid red;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
